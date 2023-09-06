@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    .all{
+        border-radius: 8px solid black;
+        box-shadow: 1px 2px 5px;
+        height:2340px;
+        padding:10px;
+    }
+    .hi{
+        width: 70%;
+        margin-left: 15%;
+    }
+    p{
+        display: inline;
+    }
+    body{
+        font-size:xx-large;
+        background-image: url(https://img.freepik.com/premium-photo/hotel-room-with-bed-table-window-overlooking-ocean_865967-337078.jpg);
+        background-size: cover;
+    }
